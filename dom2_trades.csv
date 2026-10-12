@@ -1,0 +1,4 @@
+time,variant,symbol,dir,entry,exit,gross_pct,roi_pct,profit_usd,reason,macro,rsi1m,vol_x,atr15
+10-12 17:44,h15_x1,UNI,SHORT,7.362,7.346,0.217,0.0,0.007,TIME,USDT.D +1 BTC.D +1 ETH.D +0 OTHERS.D -1,43.5,1.79,0.73
+10-12 17:44,h15_x3,UNI,SHORT,7.362,7.346,0.217,0.1,0.022,TIME,USDT.D +1 BTC.D +1 ETH.D +0 OTHERS.D -1,43.5,1.79,0.73
+10-12 17:44,h15_x5,UNI,SHORT,7.362,7.346,0.217,0.2,0.037,TIME,USDT.D +1 BTC.D +1 ETH.D +0 OTHERS.D -1,43.5,1.79,0.73
